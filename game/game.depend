@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1716439756 source:d:\sdl2\spacewar\game\main.cpp
+	<bits/stdc++.h>
+	"defs.h"
+	"enemy.h"
+	"bullet.h"
+	"defs.h"
+	"energy.h"
+	"graphics.h"
+	"logic.h"
+	"ship.h"
+
+1716440020 d:\sdl2\spacewar\game\defs.h
+	<SDL.h>
+	<bits/stdc++.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1716398018 d:\sdl2\spacewar\game\enemy.h
+	"defs.h"
+	<cstdlib>
+	<ctime>
+
+1716397623 d:\sdl2\spacewar\game\bullet.h
+	"ship.h"
+
+1716371696 d:\sdl2\spacewar\game\ship.h
+	"defs.h"
+	"graphics.h"
+	"enemy.h"
+	"logic.h"
+	<bits/stdc++.h>
+
+1716387378 d:\sdl2\spacewar\game\graphics.h
+	"defs.h"
+
+1716371417 d:\sdl2\spacewar\game\logic.h
+	"ship.h"
+	"enemy.h"
+
+1716397814 d:\sdl2\spacewar\game\energy.h
+
